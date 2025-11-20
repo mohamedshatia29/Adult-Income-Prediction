@@ -85,9 +85,16 @@ The final outcome is an interpretable and scalable XGBoost model that can assist
 
 ```
 Epsilon project/
+├── About Data/
+│   ├── Index.md
+│   ├── about_data.md
+│   └── knowledge.md
 ├── Dataset/
-│   ├── raw/adult.csv
+│   ├── raw/
+│   │   └── adult.csv
 │   └── processed/
+│       ├── adultExplored.csv
+│       └── adultProcessed.csv
 ├── Notebooks/
 │   ├── 00_exploration.ipynb
 │   ├── 01_analytics.ipynb
