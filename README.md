@@ -53,8 +53,8 @@ The final outcome is an interpretable and scalable XGBoost model that can assist
 
 1.  **Clone the Repository**:
     ```bash
-    git clone <YOUR_REPOSITORY_LINK>
-    cd <YOUR_PROJECT_DIRECTORY>
+    git clone <https://github.com/mohamedshatia29/Predict-Adult-Income-Based-on-Census-Data.git>
+    cd <https://github.com/mohamedshatia29/Predict-Adult-Income-Based-on-Census-Data.git>
     ```
 
 2.  **Install Dependencies**:
